@@ -21,12 +21,17 @@ This repository contains practical exercises and code examples that demonstrate 
    cd rust-learning-exercises
    ```
 
-2. **Run the interactive menu**
+2. **Build the project (optional but recommended)**
+   ```bash
+   cargo build
+   ```
+
+3. **Run the interactive menu**
    ```bash
    cargo run
    ```
 
-3. **Choose an exercise**
+4. **Choose an exercise**
    - The program will display a menu with available exercises
    - Enter the number corresponding to the exercise you want to run
    - Follow the on-screen instructions
