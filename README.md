@@ -17,7 +17,7 @@ This repository contains practical exercises and code examples that demonstrate 
 
 1. **Clone or download this repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/nellysbr/rust-learning-exercises
    cd rust-learning-exercises
    ```
 
