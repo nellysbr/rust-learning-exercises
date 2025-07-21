@@ -120,7 +120,7 @@ pub fn demonstrate_ownership() {
 
 - This is a learning project, not production code
 - Exercises are designed to be simple and educational
-- Code includes comments explaining Rust concepts
+- Code may includes comments explaining Rust concepts
 - Each exercise focuses on specific language features
 
 ## 🤝 Contributing
